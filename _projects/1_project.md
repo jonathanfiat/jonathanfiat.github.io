@@ -1,81 +1,23 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Active Epistemology
+description: What we know depends on what we do
+img: assets/img/rat.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Here’s a common picture of the ideal epistemic agent. He is tied to a chair without being able to move. His eyes are forcefully held open. And he is drugged such that he has no plans, hopes, or even thoughts. His entire being is about responding to what comes in.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Everyone can agree that such an agent is not going to know a lot. We know as much as we do partly because we look for evidence. But, according to most mainstream views in contemporary epistemology, this is an aside, an unfortunate complication that can be safely ignored. According to this mainstream position, the ideal epistemic agent would be like the one I just described, but attached so a more active agent who would be in charge of gathering the evidence. This way, our perfect epistemic agent won’t be sullied by such things.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+There is a different possible picture of ideal epistemic agent. Imagine a rat in a maze with a hidden piece of cheese. She runs down the different routes and sniffs the air. She forms and follows a plan. She comes up with hypotheses and tests them. The rat is admirable in many ways. She is likely to achieve her goal of getting the cheese. She is a good inquirer. She works to get knowledge. She doesn’t passively attempt to make the most of what finds its way to her.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+This project is about developing this second picture of ideal epistemic agents. I think that we can make progress on many of the traditional questions of epistemology when we adopt this kind of picture. I also think that when we adopt this picture, we can make better sense of our scientific practices.
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+For example, in {% cite fiatPredictivist %} I justify the use of _significance testing_, one of the most important practices in science, by appealing to the idea that when we make a successful prediction, it makes a difference.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+In {% cite fiatBandits %} I argue that to keep our knowledge, we must actively maintain it. I appeal to the famous [multi-armed bandit](https://en.wikipedia.org/wiki/Multi-armed_bandit) problem, and argue that it teaches us that we can lose knowledge simply by failing to maintain it by looking for evidence.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+_Photo by [Annemarie Horne](https://unsplash.com/@annemariehorne?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/photo-of-gray-mice-X5utMnbIoxg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)_

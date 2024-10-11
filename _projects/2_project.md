@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Epistemtic logic
+title: Epistemic logic
 description: We know stuff. And we know that we know stuff. But what exactly is the connection between the two?
 img: assets/img/matryoshka.jpg
 importance: 1

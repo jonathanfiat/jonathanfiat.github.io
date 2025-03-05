@@ -16,8 +16,17 @@ There is a different possible picture of ideal epistemic agent. Imagine a rat in
 
 This project is about developing this second picture of ideal epistemic agents. I think that we can make progress on many of the traditional questions of epistemology when we adopt this kind of picture. I also think that when we adopt this picture, we can make better sense of our scientific practices.
 
-For example, in {% cite fiatPredictivist %} I justify the use of _significance testing_, one of the most important practices in science, by appealing to the idea that when we make a successful prediction, it makes a difference.
+<!-- {% cite fiatPredictivist %} -->
 
-In {% cite fiatBandits %} I argue that to keep our knowledge, we must actively maintain it. I appeal to the famous [multi-armed bandit](https://en.wikipedia.org/wiki/Multi-armed_bandit) problem, and argue that it teaches us that we can lose knowledge simply by failing to maintain it by looking for evidence.
+For example, in "A predictivist account of significance testing" I offer a new justification for _significance testing_, one of the most important practices in science, by appealing to the idea that when we make a successful prediction, it makes a difference.
+
+<!-- {% cite fiatBandits %} -->
+
+In "Bandits of knowledge" I argue that to keep our knowledge, we must actively maintain it. I appeal to the famous [multi-armed bandit](https://en.wikipedia.org/wiki/Multi-armed_bandit) problem, and argue that it teaches us that we can lose knowledge simply by failing to maintain it by looking for evidence.
+
+<!-- {% cite fiatKnowledgeByChoice %} -->
+
+In "Knowledge by choice" I argue that in order to avoid skepticism, we must accept that what we know depend on our choices, and not only on what's _given_ to us. I show that this insight helps solve the lottery paradox, and it explains our inductive knowledge and our statistical practices.
+
 
 _Photo by [Annemarie Horne](https://unsplash.com/@annemariehorne?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/photo-of-gray-mice-X5utMnbIoxg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)_

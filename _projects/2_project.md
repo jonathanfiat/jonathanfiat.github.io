@@ -19,7 +19,9 @@ In "Knowledge to Infinity: Full knowledge and the margin-for-error principle" I 
 
 In "Escaping Zeno's shadow: A defense of common knowledge", I use this idea to argue that sometimes, we have common knowledge. A group commonly know something if all its members know it, and they all know that they all know it, and they all know that they all know that they all know it, and ... This idea has been used extensively in discussions of rationality, but philosophers have been skeptical of it. I show that there is no reason to think that common knowledge is impossible.
 
+<!-- {% cite fiatKnowledgByChoice %} -->
 
+In "Knowledge by choice", I argue that what we know depends on our choices, and not only on what's given to us. I use this idea to provide a new response to the lottery paradox. This shows that there's a problem with the way most philosophers think about the _K_ operator: if _Kp_ means "I can know that _p_," then my arguments shows that it doesn't obey the closure principle, even if closure is true for knowledge itself.
 
 
 _Photo by [Didssph](https://unsplash.com/@didsss?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/red-blue-and-yellow-ceramic-figurine-PB80D_B4g7c?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)_

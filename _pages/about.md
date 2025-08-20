@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: profile.png
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
 #  more_info: >
 #    <p>555 your office number</p>
@@ -18,6 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm an assistant professor of philosophy the [University of Toronto Department of Philosophy](https://philosophy.utoronto.ca/). Before joining the University of Toronto, I got my PhD from the [MIT Department of Linguistics and Philosophy](https://philosophy.mit.edu/) under the supervision of [Roger White](https://philosophy.mit.edu/white/). I work mainly in epistemology, especially in connection to the philosophy of science and to decision theory.
+I'm an Assistant Professor in [Philosophy](https://philosophy.utoronto.ca/) at the University of Toronto. Before joining the University of Toronto, I got my PhD from the [MIT Department of Linguistics and Philosophy](https://philosophy.mit.edu/) under the supervision of [Roger White](https://philosophy.mit.edu/white/). I work mainly in epistemology, especially in connection to the philosophy of science and to decision theory.
 
 I spend most of my time thinking about how what we *do* affects what we can know. As an easy example, consider randomization: every practitioner knows that the most important feature of clinical trials is to randomize the participants between a *test group* and a *control group*. But from a certain perspective, it is a bit puzzling: randomization is something we do, not something we observe.
